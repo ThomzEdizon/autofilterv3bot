@@ -90,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [
-        InlineKeyboardButton('🎪 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 🎪', url='https://t.me/malayalammoviestg1'),
+        InlineKeyboardButton('🎪 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 🎪', url='https://t.me/TGmovie9'),
        ],[
         InlineKeyboardButton('♻ 𝗦𝗛𝗔𝗥𝗘 ♻', url ='https://t.me/share/url?url=https%3A//t.me/malayalammoviesD')
     ]
